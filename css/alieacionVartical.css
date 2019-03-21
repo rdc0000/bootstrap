@@ -1,0 +1,11 @@
+.row{
+    background: rgb(10, 199, 233);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.columna{
+    background: rgb(200, 255, 0);
+    text-align: center;
+    padding:10px;
+    border: 5px solid lemonchiffon;
+}

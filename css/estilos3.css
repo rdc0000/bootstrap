@@ -1,0 +1,12 @@
+.row{
+    height: 150px;
+    margin-top: 20px;
+    background: rgb(0, 162, 255);
+}
+.col{
+    text-align: center;
+    background: blue;
+    padding: 10px;
+    border: 5px solid lemonchiffon;
+    color: white;
+}

@@ -1,0 +1,24 @@
+
+.row{
+    background: blue;
+    color: white;
+    border: 5px solid white;
+}
+.row div .columna2{
+    background: rgb(189, 187, 187);
+} 
+.col{
+    background: rgba(0, 255, 34, 0.534);
+    text-align: center;
+    padding:10px;
+}
+.columna{
+    background: white;
+    color: black;
+    padding: 5px;
+}
+
+.footer{
+    background: black;
+    padding: 5px;
+}

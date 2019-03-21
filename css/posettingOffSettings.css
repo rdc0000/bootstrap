@@ -1,0 +1,14 @@
+.row{
+    background: rgb(205, 232, 236);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.columna{
+    background: rgba(0, 255, 34, 0.534);
+    text-align: center;
+    padding:10px;
+    border: 5px solid lemonchiffon;
+}
+.margen{
+    margin-left: 100px;
+}
